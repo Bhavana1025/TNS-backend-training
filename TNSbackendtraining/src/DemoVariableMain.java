@@ -6,7 +6,6 @@ public class DemoVariableMain {
 		System.out.println(DemoVariable.staticVar);
 		obj.display();
 
-
 	}
 
 }
